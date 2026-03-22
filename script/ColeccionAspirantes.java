@@ -9,6 +9,7 @@ import java.util.List;
  * @author [nombre]
  * @version 1.0
  */
+@SuppressWarnings("unchecked")
 public class ColeccionAspirantes implements Coleccion<Aspirante> {
 
     /** Tabla hash que almacena aspirantes con su nombre como clave. */
