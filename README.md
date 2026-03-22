@@ -1,5 +1,5 @@
 README
-###Practica 03 - Modelado y Programacion
+#Practica 03 - Modelado y Programacion
 Facultad de Ciencias, UNAM - 2026-2
 ## 👥 Datos del Equipo
 
