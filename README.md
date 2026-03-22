@@ -43,9 +43,12 @@ un solo lugar. Ambas fabricas facilitan la extension del sistema sin modificar e
 ## Compilacion y Ejecucion
 El codigo no utiliza librerias externas, paquetes adicionales ni JARs. Todos los archivos .java se
 encuentran en la carpeta src/. Los comandos son compatibles con Linux y Windows.
+
 Compilar:
 ```javac *.java```
+
 Ejecutar:
 ```java App```
+
 Version de Java utilizada: JDK 23. Se recomienda usar esta version para evitar conflictos de
 compilacion.
